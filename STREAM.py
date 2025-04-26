@@ -183,7 +183,7 @@ st.title("Welcome")
 
 # Home page
 if st.session_state['current_page'] == "Accueil":
-    st.image("C:/Users/MSI/Desktop/pfee/images/images.png", width=150)
+    st.image("C:/Users/MSI/Downloads/LEONI-ISET-main/LEONI-ISET-main/images.png", width=150)
 
 # Sidebar navigation
 if st.session_state['logged_in']:
